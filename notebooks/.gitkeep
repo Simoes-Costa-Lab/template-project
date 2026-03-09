@@ -1,0 +1,74 @@
+# ==============================
+# Sequencing data (never commit)
+# ==============================
+
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+*.cram
+*.bedgraph
+*.bigWig
+*.bw
+*.bai
+
+# ==============================
+# Single-cell objects
+# ==============================
+
+*.h5ad
+*.loom
+*.rds
+*.h5
+*.hdf5
+*.mtx
+*.npz
+
+# ==============================
+# Intermediate analysis files
+# ==============================
+
+*.tmp
+*.log
+*.cache
+*.pickle
+*.pkl
+
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ==============================
+# R
+# ==============================
+
+.Rhistory
+.RData
+.Rproj.user
+
+# ==============================
+# OS / editor
+# ==============================
+
+.DS_Store
+Thumbs.db
+*.swp
+
+# ==============================
+# Data & Results
+# ==============================
+
+ATAC
+results
+CUT_RUN
+RNA_Seq
+docs
+single_cell
+metadata
+README.md
