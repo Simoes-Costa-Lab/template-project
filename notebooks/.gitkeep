@@ -60,15 +60,3 @@ __pycache__/
 Thumbs.db
 *.swp
 
-# ==============================
-# Data & Results
-# ==============================
-
-ATAC
-results
-CUT_RUN
-RNA_Seq
-docs
-single_cell
-metadata
-README.md
